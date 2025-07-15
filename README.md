@@ -5,6 +5,8 @@
 [![Crates.io](https://img.shields.io/crates/v/mnemo)](https://crates.io/crates/mnemo) 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+![Logo](https://dummyimage.com/900x300/000000/fff.png&text=Mnemo)
+
 ---
 
 ## ✨ Why Mnemo Core?
